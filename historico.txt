@@ -1,0 +1,29 @@
+Author: danielamika <dani.mika.dmy@gmail.com>
+Date:   Mon Nov 25 17:49:45 2024 -0300
+
+    att pasta
+
+commit a559aeaf34d2818f00ec978ae4fe0b2ca5f555fd
+Author: danielamika <dani.mika.dmy@gmail.com>
+Date:   Mon Nov 25 17:42:51 2024 -0300
+
+    att log.txt
+
+commit 437644e51c0720eeeab1f6e0d573d4fb34da8d18
+Author: danielamika <dani.mika.dmy@gmail.com>
+Date:   Mon Nov 25 17:36:35 2024 -0300
+
+    att aplicacao python
+
+commit a4e3cf7e21be34f3b64100eaeb7b38ebd8057698
+Author: danielamika <dani.mika.dmy@gmail.com>
+Date:   Mon Nov 25 17:26:07 2024 -0300
+
+    att pratica5
+
+commit c16305ae0843bb4a94f5ee4dc8df3d20e5c4e378
+Author: danielamika <110845068+danielamika@users.noreply.github.com>
+Date:   Mon Nov 25 17:23:39 2024 -0300
+
+    Update README.md
+:
